@@ -9,14 +9,17 @@ namespace Program2
 
     class Program
     {
+        
+        //FOR THE PURPOSES OF GITHUB, THE API KEYS HAVE BEEN REMOVED. IF DESIRED, PLEASE USE YOUR OWN
+        //PUBLIC KEYS AND REPLACE THEM INTO THE GLOBAL VARIABLES.
 
         //Open Weather API details
         private static string openWeatherSearch;
-        private static string key = "7a5ac8b888484baead08c37b250e3ef0";
+        private static string key = "INSERT OPENWEATHER KEY";
 
         //Yelp API details
         private static string yelpSearch;
-        private static string yelpkey = "ED8943E5usABItTefaXsEb4vkkb_THKKYzEif8dwtHo7oFZwkwezwrpcOZ98qWbkTI1eL2qTQD6zSqRQ0kqlPOzRCl-UbAGCJlbQNhHur_VdpgaiL0TYzIZlahqdX3Yx";
+        private static string yelpkey = "INSERT YELP KEY";
 
 
         //Http Response
